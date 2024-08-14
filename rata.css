@@ -36,3 +36,6 @@ body {
     width: 300px; /* Cambia el ancho de la imagen */
     height: auto; 
   }
+  .imagenIndex{
+    border: 5px ridge rgb(44, 2, 2);
+  }
